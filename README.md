@@ -1,6 +1,6 @@
 # Carlos Monti
 
-![Ocean horizon and shoreline — the procedural WebGL2 scenes behind carlosmonti.com](assets/hero.gif)
+![Ocean horizon — the procedural WebGL2 scene behind carlosmonti.com](assets/hero.gif)
 
 Senior Software Engineer in Buenos Aires. ~19 years shipping web products (Disney, Deloitte, Blockchain.com, Brubank, Despegar).
 
