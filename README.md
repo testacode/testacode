@@ -1,34 +1,22 @@
-# Hi there! 👋 I'm Charlie Brown
+# Carlos Monti
 
-  ## 🚀 Creator of Header Editor Pro - Free
-  > **Professional HTTP header editor for Chrome - Completely FREE with unlimited profiles**
+Senior Software Engineer in Buenos Aires. ~19 years shipping web products (Disney, Deloitte, Blockchain.com, Brubank, Despegar).
 
-  [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen?logo=googlechrome&logoColor=white)](https://github.com/testacode/header-editor-pro-free)
-  [![GitHub Sponsors](https://img.shields.io/badge/💝%20Sponsor-GitHub-pink?logo=github&logoColor=white)](https://github.com/sponsors/testacode)
-  [![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-Support-orange?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/charlybrown)
+**Site:** [carlosmonti.com](https://carlosmonti.com) · **LinkedIn:** [carlosmonti](https://www.linkedin.com/in/carlosmonti/)
 
-  ---
+```sh
+npx xmontc
+```
 
-  ## 💻 What I'm Building
+My resume as an interactive terminal app ([source](https://github.com/testacode/xmontc)).
 
-  🔧 **Header Editor Pro - Free** - Chrome extension helping developers modify HTTP headers
-  🌟 **Free Alternative** to expensive paid header modification tools
-  ⚡ **10,000+ users** (soon!) rely on it for API testing and debugging
+![carlosmonti.com hero: procedural WebGL2 ocean horizon and shoreline scenes](assets/hero.gif)
 
-  ## 🎯 My Focus
+The hero on my site is two procedural WebGL2 shader scenes picked at random per load — an ocean horizon with my name sitting on the horizon line, and a top-down shore where the name is the coastline and the waves break on the letters. The `π` button opens a panel with presets and every shader parameter, persisted per visitor. Sea ambience is a CC0 recording cut into seamless loops with ffmpeg.
 
-  - 🛠️ **Frontend Development** - React, TypeScript, Chrome Extensions
-  - 🔒 **Privacy-First Tools** - No tracking, no data collection
-  - 🆓 **Open Source** - Building free alternatives to paid tools
-  - 🚀 **Developer Experience** - Making dev tools more accessible
+## Projects
 
-  ## 📊 GitHub Stats
-
-  ![Charlie's GitHub
-  stats](https://github-readme-stats.vercel.app/api?username=testacode&show_icons=true&theme=dark)
-
-  ## 🤝 Let's Connect
-
-  - 🌐 **Website**: [Header Editor Pro](https://testacode.github.io/header-editor-pro-free/)
-  - 💼 **Role**: Frontend Developer & Chrome Extension Creator
-  - 🏠 **Location**: Milky Way 🌌
+- [Header Editor Pro – Free](https://github.com/testacode/header-editor-pro-free) — Chrome/Firefox extension to modify HTTP headers. Free, no tracking.
+- [Weird Science](https://github.com/testacode/weird-science) — interactive 3D science labs for primary and secondary school (Argentina's NAP curriculum).
+- [mac-vs-linux-bench](https://github.com/testacode/mac-vs-linux-bench) — why git, pnpm and parallel agents are slower on macOS than on Linux on the same hardware.
+- More at [carlosmonti.com](https://carlosmonti.com#projects).
