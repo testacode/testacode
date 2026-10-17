@@ -10,8 +10,6 @@ npx xmontc
 
 My resume as an interactive terminal app ([source](https://github.com/testacode/xmontc)).
 
-![carlosmonti.com hero: procedural WebGL2 ocean horizon and shoreline scenes](assets/hero.gif)
-
 The hero on my site is two procedural WebGL2 shader scenes picked at random per load — an ocean horizon with my name sitting on the horizon line, and a top-down shore where the name is the coastline and the waves break on the letters. The `π` button opens a panel with presets and every shader parameter, persisted per visitor. Sea ambience is a CC0 recording cut into seamless loops with ffmpeg.
 
 ## Projects
