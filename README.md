@@ -1,5 +1,7 @@
 # Carlos Monti
 
+![Ocean horizon and shoreline — the procedural WebGL2 scenes behind carlosmonti.com](assets/hero.gif)
+
 Senior Software Engineer in Buenos Aires. ~19 years shipping web products (Disney, Deloitte, Blockchain.com, Brubank, Despegar).
 
 **Site:** [carlosmonti.com](https://carlosmonti.com) · **LinkedIn:** [carlosmonti](https://www.linkedin.com/in/carlosmonti/)
